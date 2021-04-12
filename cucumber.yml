@@ -1,0 +1,2 @@
+report:  --format json --out=report/report.json
+html:  --format html --out=reports/report.html
