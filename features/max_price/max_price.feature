@@ -1,3 +1,4 @@
+@price
 Feature: Website shows products at their maximum prices
   Scenario: Choose maximum price from home page
     Given I am on home page

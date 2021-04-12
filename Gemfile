@@ -2,10 +2,11 @@
 
 source "https://rubygems.org"
 
-ruby '2.5.6'
-
 gem 'capybara'
 gem 'cucumber'
 gem 'pry'
 gem 'selenium-webdriver'
 gem 'webdrivers'
+gem 'rspec'
+gem 'report_builder'
+gem 'faker'
