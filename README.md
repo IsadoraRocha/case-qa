@@ -90,3 +90,12 @@ c) se um usuário **A** não segue um usuário **B**, então **B** não é lista
 Para esse item, apenas descreva as especificações dos testes em BDD da maneira que você julgar mais adequada, no arquivo `features/follow/follow.feature`. Não é necessário programar os passos, só se você quiser 🙂️
 
 Bom trabalho! 🍀️
+
+### Resolução final
+
+Para rodar os testes implementados seguidos de um relatório utilize o seguinte comando:
+
+```
+  cucumber -t @price -p report
+  ```
+O relatrio estara presente na pasta **report** com o nome de **REPORT.html**
